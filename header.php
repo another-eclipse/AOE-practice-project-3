@@ -13,7 +13,7 @@
     
    
 
-    <title>MAS cladding</title>
+    <title>AOE Custom Theme 3</title>
     <?php
     wp_head(); 
     ?>
